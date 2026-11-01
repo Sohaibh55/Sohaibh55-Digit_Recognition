@@ -1,0 +1,7 @@
+{
+  "model": "cnn",
+  "test_accuracy": 0.9931,
+  "test_loss": 0.024,
+  "epochs_run": 12,
+  "params": 468778
+}
