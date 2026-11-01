@@ -1,2 +1,3 @@
 .digit_venv 
 .gradio/
+__pycache__
